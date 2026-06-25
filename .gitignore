@@ -1,0 +1,4 @@
+venv/
+senhaApi.txt
+*.mp4
+__pycache__/

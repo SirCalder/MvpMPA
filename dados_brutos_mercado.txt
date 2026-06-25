@@ -1,0 +1,94 @@
+Tempo: 0.0s -> Textos: 8,45
+Tempo: 0.2s -> Textos: 8,45
+Tempo: 0.3s -> Textos: 8,45
+Tempo: 0.5s -> Textos: 8,45
+Tempo: 0.7s -> Textos: 8,45
+Tempo: 0.8s -> Textos: 8 4
+Tempo: 1.2s -> Textos: 8 4
+Tempo: 1.3s -> Textos: 8,45
+Tempo: 1.8s -> Textos: 6 28
+Tempo: 2.0s -> Textos: 8 4 | 144
+Tempo: 2.2s -> Textos: 8,4 | 11,45
+Tempo: 2.4s -> Textos: 144
+Tempo: 2.5s -> Textos: 8,45 | 11,45
+Tempo: 2.7s -> Textos: 11,45
+Tempo: 2.9s -> Textos: 11,45
+Tempo: 5.4s -> Textos: 11,45
+Tempo: 5.5s -> Textos: GUÂRANA ANTARTICA 2L | 00124- | 11,45
+Tempo: 5.7s -> Textos: 11,45
+Tempo: 5.9s -> Textos: 11,45
+Tempo: 6.1s -> Textos: 11,45
+Tempo: 8.1s -> Textos: 9,99
+Tempo: 8.2s -> Textos: PEPSI ZERO ACUCAR 2L | 9,99
+Tempo: 8.4s -> Textos: PEPSI ZERO ACUCAR 2L | 9,99
+Tempo: 9.9s -> Textos: 9,99
+Tempo: 10.3s -> Textos: 9,99
+Tempo: 10.4s -> Textos: GUARANA KUAT 2L | Sppite | 9,99
+Tempo: 10.6s -> Textos: GUARANA KUAT 2L | sprite Op | 9,99
+Tempo: 10.8s -> Textos: 9,99
+Tempo: 11.9s -> Textos: Spri
+Tempo: 12.1s -> Textos: Sprit
+Tempo: 12.3s -> Textos: Sprit
+Tempo: 12.4s -> Textos: 10,45 | Spril
+Tempo: 12.6s -> Textos: Spril
+Tempo: 12.8s -> Textos: 10,45 | Spril
+Tempo: 12.9s -> Textos: 10,45 | Spril
+Tempo: 13.1s -> Textos: SPRITE ORIGINAL 2L | 10,45
+Tempo: 13.3s -> Textos: SPRITE ORIGINAL ? | 10,45 | Spril
+Tempo: 13.4s -> Textos: sprite ORIGINAL 2- | 10,45 | Spril
+Tempo: 13.6s -> Textos: SPRITE ORIGINAL 21 | 10,45 | Spril
+Tempo: 13.8s -> Textos: SPRITE ORIGINAL 21 | 10,45 | Spril
+Tempo: 14.0s -> Textos: 10,45 | Spril
+Tempo: 14.1s -> Textos: Sprn
+Tempo: 15.6s -> Textos: 164
+Tempo: 15.8s -> Textos: Fanta LaRanJA 2L | 10,45 | 10,45
+Tempo: 16.0s -> Textos: 10,45 | 10,45
+Tempo: 16.1s -> Textos: FANTA LARANJA 2L' | FANTAUVA 2L | 10,45 | 10,45
+Tempo: 16.3s -> Textos: FANTA LARANJA 2L | 10,45 | ,45
+Tempo: 16.5s -> Textos: FANTA LARANJA 2L | 10,45 | 10,45
+Tempo: 16.6s -> Textos: FANTA LARANJA 2L' | 10,45 | 10,45 | Voade
+Tempo: 16.8s -> Textos: 10,45 | ,45
+Tempo: 17.0s -> Textos: 164
+Tempo: 17.1s -> Textos: 10,45 | 10,45
+Tempo: 17.3s -> Textos: 10,45
+Tempo: 19.0s -> Textos: 10,45
+Tempo: 19.2s -> Textos: 10,45 | GuARANA
+Tempo: 19.3s -> Textos: 10,45
+Tempo: 19.5s -> Textos: FanTa | GUARANA 21 | 10,45
+Tempo: 19.7s -> Textos: 10,45 | Guapana
+Tempo: 19.8s -> Textos: 10,45
+Tempo: 20.0s -> Textos: 10,45
+Tempo: 22.5s -> Textos: 12,99
+Tempo: 22.7s -> Textos: 12,99
+Tempo: 22.9s -> Textos: 12,99
+Tempo: 23.0s -> Textos: 12,99
+Tempo: 23.2s -> Textos: COCA-COLA | 2L 70455 | 12,99
+Tempo: 23.4s -> Textos: COCA-COLA 2L 70455 | 12,99
+Tempo: 26.2s -> Textos: RS 13 99
+Tempo: 26.4s -> Textos: 034640 | 222 -
+Tempo: 26.6s -> Textos: 034640
+Tempo: 26.7s -> Textos: 034640 | RS 13,99 | 700
+Tempo: 26.9s -> Textos: 024840 | POR | RS 13,99 | 7 00 | PREC
+Tempo: 27.1s -> Textos: 11 +
+Tempo: 29.1s -> Textos: 12,99
+Tempo: 29.2s -> Textos: COCA COLA 2L 70455 | 12,99
+Tempo: 29.4s -> Textos: COCA-COLA 2L 70455 | 12,99
+Tempo: 29.6s -> Textos: COCA-COLA 2L 70455 | 12,99
+Tempo: 29.7s -> Textos: COCA-COLA 2L 70455 | 12,99
+Tempo: 29.9s -> Textos: COCA-COLA 2L 70455 | 12,99
+Tempo: 32.1s -> Textos: FANTA MARACUJA 2L
+Tempo: 32.9s -> Textos: 9,45
+Tempo: 33.1s -> Textos: 9,45
+Tempo: 33.3s -> Textos: 9,45
+Tempo: 33.4s -> Textos: FANTA MARACUJA 2L | 9,45 | 1894900/09101- | UniDADE
+Tempo: 33.6s -> Textos: 9,45
+Tempo: 36.8s -> Textos: 9,99
+Tempo: 37.0s -> Textos: Pepsi2l | 9,99
+Tempo: 37.1s -> Textos: 9,99
+Tempo: 37.3s -> Textos: PEPSI 2L | 9,99
+Tempo: 37.5s -> Textos: 9,99
+Tempo: 39.2s -> Textos: 12,45
+Tempo: 39.3s -> Textos: 12,45
+Tempo: 39.5s -> Textos: GUARANA | ANTARTICA 2.50 | 12,45
+Tempo: 39.7s -> Textos: 12,45
+Tempo: 40.0s -> Textos: 1245

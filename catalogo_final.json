@@ -1,0 +1,92 @@
+[
+  {
+    "produto": "Guaraná Antarctica",
+    "marca": "Guaraná Antarctica",
+    "volume": "2L",
+    "preco": 11.45,
+    "promocao": false,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Pepsi Zero Açúcar",
+    "marca": "Pepsi",
+    "volume": "2L",
+    "preco": 9.99,
+    "promocao": true,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Guaraná Kuat",
+    "marca": "Kuat",
+    "volume": "2L",
+    "preco": 9.99,
+    "promocao": true,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Sprite Original",
+    "marca": "Sprite",
+    "volume": "2L",
+    "preco": 10.45,
+    "promocao": false,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Fanta Laranja",
+    "marca": "Fanta",
+    "volume": "2L",
+    "preco": 10.45,
+    "promocao": false,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Guaraná",
+    "marca": "Fanta",
+    "volume": "2L",
+    "preco": 10.45,
+    "promocao": false,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Coca-Cola",
+    "marca": "Coca-Cola",
+    "volume": "2L",
+    "preco": 12.99,
+    "promocao": false,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Fanta Maracujá",
+    "marca": "Fanta",
+    "volume": "2L",
+    "preco": 9.45,
+    "promocao": false,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Pepsi",
+    "marca": "Pepsi",
+    "volume": "2L",
+    "preco": 9.99,
+    "promocao": true,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  },
+  {
+    "produto": "Guaraná Antarctica",
+    "marca": "Guaraná Antarctica",
+    "volume": "2.50L",
+    "preco": 12.45,
+    "promocao": false,
+    "mercado": "Mercado São Paulo",
+    "sessao": "Refrigerantes"
+  }
+]
